@@ -1,0 +1,18 @@
+25-02-03 13:51 Session started
+----------------------------------------
+13:51:22 039:000 > },
+    "workbench.startupEditor": "none"
+13:58:44 Document switched to: c:\Users\benjamin.norbelie\AppData\Roaming\Code\User\profiles\3d2b701d\settings.json
+----------------------------------------
+13:59:18 040:037 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:03:48 Document switched to: c:\Users\benjamin.norbelie\github-classroom\prog1-wpf-TE23E-Benjamin-Norbelie\.vscode\csharp.code-snippets
+----------------------------------------
