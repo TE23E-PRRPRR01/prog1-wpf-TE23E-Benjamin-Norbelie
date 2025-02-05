@@ -1,0 +1,27 @@
+25-02-05 12:41 Session started
+----------------------------------------
+12:44:06 Document switched to: c:\Users\benjamin.norbelie\github-classroom\prog1-wpf-TE23E-Benjamin-Norbelie\EventApp\App.xaml.cs
+----------------------------------------
+12:44:08 Document switched to: c:\Users\benjamin.norbelie\github-classroom\prog1-wpf-TE23E-Benjamin-Norbelie\EventApp\EventApp.csproj
+----------------------------------------
+12:44:09 Document switched to: c:\Users\benjamin.norbelie\github-classroom\prog1-wpf-TE23E-Benjamin-Norbelie\EventApp\MainWindow.xaml
+----------------------------------------
+
+12:47:58 014:084 > 7
+
+12:49:50 000:000 > T
+12:49:50 000:001 > Tr
+12:49:51 000:002 > Trä
+12:49:51 000:003 > Trän
+12:49:51 000:004 > Träna
+12:49:51 000:005 > Tränat
+12:49:52 000:007 > Tränat p
+12:49:52 000:008 > Tränat på
+12:50:22 000:010 > Tränat på w
+12:50:23 000:011 > Tränat på wp
+12:50:23 000:012 > Tränat på wpf
+12:50:23 000:013 > Tränat på wpf,
+12:50:24 000:014 > Tränat på wpf,x
+12:50:24 000:015 > Tränat på wpf,xa
+12:50:25 000:016 > Tränat på wpf,xam
+12:50:25 000:017 > Tränat på wpf,xaml
