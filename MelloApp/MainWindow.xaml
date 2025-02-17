@@ -1,0 +1,28 @@
+﻿<Window x:Class="MelloApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:MelloApp"
+    mc:Ignorable="d"
+    Title="MelloApp" Height="300" Width="300"
+    SizeToContent="WidthAndHeight">
+
+    <StackPanel Margin="20">
+        <Image Source="bilder/mello.png" Width="200" Margin="0,0,0,10"></Image>
+        <Label FontSize="15">Vilken är din favoritlåt?</Label>
+
+<Button Name="rod" Click="KlickRösta" Background="Red" Margin="5" FontFamily="Bold">Röd</Button>
+<Button Name="bla" Click="KlickRösta" Background="Blue" Margin="5" FontFamily="Bold">Blå</Button>
+<Button Name="gron" Click="KlickRösta" Background="Green" Margin="5" FontFamily="Bold">Grön</Button>
+<Button Name="lila" Click="KlickRösta" Background="Purple" Margin="5" FontFamily="Bold">Lila</Button>
+<Button Name="gul" Click="KlickRösta" Background="Yellow" Margin="5" FontFamily="Bold">Gul</Button>
+<Button Name="Rensa" Click="KlickRensa" Background="Gray" Margin="5" FontFamily="Bold">Rensa röster</Button>
+
+
+
+        <Label>Antal röster:</Label>
+        <TextBox Name="txbResultat" IsReadOnly="True"></TextBox>
+
+    </StackPanel>
+</Window>
